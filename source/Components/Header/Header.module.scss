@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6rem;
+
+  .avatar {
+    position: relative;
+    cursor: pointer;
+    img {
+      border-radius: 1rem;
+    }
+  }
+}
